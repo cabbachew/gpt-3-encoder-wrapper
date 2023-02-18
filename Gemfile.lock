@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    node-runner (1.1.0)
+
+PLATFORMS
+  x86_64-darwin-21
+
+DEPENDENCIES
+  node-runner
+
+BUNDLED WITH
+   2.3.14
